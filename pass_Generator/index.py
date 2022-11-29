@@ -41,7 +41,7 @@ def generate():
 
 #テキストボックス表示された値をコピーする
 def copy_text():
-    random_password = text_box()
+    random_password = text_box.get()
     messagebox.showinfo("成功", "コピーしました")
     pyperclip.copy(random_password)
 
