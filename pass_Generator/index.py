@@ -64,8 +64,8 @@ var1 = IntVar()
  
 #タイトルとウィンドウサイズ
 root.title("パスワードジェネレーター的なやつ")
-root.maxsize(width=400, height=300)
-root.minsize(width=400, height=300)
+root.geometry("400x300")
+root.resizable(0,0)
 
 #アイコン表示
 iconimg = 'img\icon001.ico'
