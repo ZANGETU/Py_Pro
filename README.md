@@ -1,4 +1,4 @@
 # Py_Programming
-Pyで作成したものを置いていきます
+I'll leave you with what I made in Py.
 
-実行ファイル化する方法は各自で調べてください
+You'll have to figure out how to make it into an executable file yourself.
