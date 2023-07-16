@@ -1,5 +1,5 @@
 # Youtube_downloader
 
-YouTube動画をMP4に変換して保存してくれるツールです
+This tool converts YouTube videos to MP4 and saves them!
 
-簡単なコードなのでダウンロード時間がめっちゃ長いです()
+It is a simple code and the download time is very long .
