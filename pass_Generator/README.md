@@ -1,5 +1,5 @@
 # pass_Generator
 
-パスワード的なものを作成できます
+I can create a password-like
 
-時間があれば更新していきたいと思っています
+I would like to update this when I have time.
